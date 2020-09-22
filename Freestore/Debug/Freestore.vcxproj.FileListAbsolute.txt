@@ -1,0 +1,2 @@
+D:\visual studio community\Freestore\Debug\Freestore.exe
+D:\visual studio community\Freestore\Debug\Freestore.pdb

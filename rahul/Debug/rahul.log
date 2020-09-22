@@ -1,0 +1,5 @@
+﻿  example.cpp
+D:\visual studio community\rahul\example.cpp(10,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  function.cpp
+  Generating Code...
+  rahul.vcxproj -> D:\visual studio community\project\Debug\rahul.exe
