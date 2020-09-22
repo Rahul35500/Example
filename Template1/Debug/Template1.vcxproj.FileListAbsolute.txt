@@ -1,0 +1,2 @@
+D:\visual studio community\Template1\Debug\Template1.exe
+D:\visual studio community\Template1\Debug\Template1.pdb
